@@ -1,0 +1,15 @@
+/Users/hardywang/FB_ETF_Monitoring/bin/Debug/net6.0/FB_ETF_Monitoring
+/Users/hardywang/FB_ETF_Monitoring/bin/Debug/net6.0/FB_ETF_Monitoring.deps.json
+/Users/hardywang/FB_ETF_Monitoring/bin/Debug/net6.0/FB_ETF_Monitoring.runtimeconfig.json
+/Users/hardywang/FB_ETF_Monitoring/bin/Debug/net6.0/FB_ETF_Monitoring.dll
+/Users/hardywang/FB_ETF_Monitoring/bin/Debug/net6.0/FB_ETF_Monitoring.pdb
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/FB_ETF_Monitoring.csproj.AssemblyReference.cache
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/FB_ETF_Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/FB_ETF_Monitoring.AssemblyInfoInputs.cache
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/FB_ETF_Monitoring.AssemblyInfo.cs
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/FB_ETF_Monitoring.csproj.CoreCompileInputs.cache
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/FB_ETF_Monitoring.dll
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/refint/FB_ETF_Monitoring.dll
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/FB_ETF_Monitoring.pdb
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/FB_ETF_Monitoring.genruntimeconfig.cache
+/Users/hardywang/FB_ETF_Monitoring/obj/Debug/net6.0/ref/FB_ETF_Monitoring.dll
